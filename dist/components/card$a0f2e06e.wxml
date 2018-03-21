@@ -1,0 +1,5 @@
+<template name="card$a0f2e06e">
+  <view class="_div data-v-b73401ca">
+    <view class="_p data-v-b73401ca card"> {{text}} </view>
+  </view>
+</template>
