@@ -10,7 +10,7 @@
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
 	"appid": "wx8bf0eab9fbf237d6",
-	"projectname": "my-frontend",
+	"projectname": "myFrontend",
 	"condition": {
 		"search": {
 			"current": -1,
